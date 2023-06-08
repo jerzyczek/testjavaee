@@ -7,6 +7,8 @@ import javax.servlet.annotation.*;
 @WebServlet(name = "helloServlet", value = "/hello-servlet")
 public class HelloServlet extends HttpServlet {
     private String message;
+    private String rks;
+    private String test123;
 
     public void init() {
         message = "Hello World!";
