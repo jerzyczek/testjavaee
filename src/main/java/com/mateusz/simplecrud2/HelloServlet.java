@@ -10,7 +10,7 @@ public class HelloServlet extends HttpServlet {
     private String rks;
     private String test123;
     private String getTest123() {
-        return "test123444555555";
+        return "test123";
     }
 
     public void init() {
