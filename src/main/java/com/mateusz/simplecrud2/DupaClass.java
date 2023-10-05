@@ -10,5 +10,4 @@ public class DupaClass {
 
 
     private String hejhej;
-    private String upal;
 }
