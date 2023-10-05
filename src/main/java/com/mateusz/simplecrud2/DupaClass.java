@@ -7,7 +7,4 @@ public class DupaClass {
     private String c;
 
     private String ddd;
-
-
-    private String hejhej;
 }
