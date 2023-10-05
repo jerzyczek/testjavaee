@@ -5,4 +5,6 @@ public class DupaClass {
     private String b;
     private String hwdp;
     private String c;
+
+    private String ddd;
 }
